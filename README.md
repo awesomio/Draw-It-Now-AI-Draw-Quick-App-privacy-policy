@@ -6,10 +6,6 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 I do not collect any personal data and do not share your information with anyone.
 
-**Information Collection and Use**
-
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
-
 **Links to Other Sites**
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
