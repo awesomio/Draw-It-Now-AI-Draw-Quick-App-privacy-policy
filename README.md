@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Awesomio built the Want to Draw app as a Free app. This SERVICE is provided by Awesomio at no cost and is intended for use as is.
+Awesomio built the Draw It Now AI Draw Quick App as a Free app. This SERVICE is provided by Awesomio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
