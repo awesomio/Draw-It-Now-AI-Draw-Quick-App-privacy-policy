@@ -19,7 +19,6 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [Appodeal](https://appodeal.com/privacy-policy/)
     
 **Log Data**
 
